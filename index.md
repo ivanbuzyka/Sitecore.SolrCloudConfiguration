@@ -8,8 +8,8 @@ My deployment was done into Virtual Machines in **Microsoft Azure**. VMs where o
 
 # Used information sources
 I didn't have experience with SolrCloud at all, therefore I searched a loot for the information. I found following articles useful:
-* https://sitecorenuke.wordpress.com/2017/08/31/solr-cloud-setup-with-zookeeper-for-sitecore/
-* https://lucene.apache.org/solr/guide/6_6/setting-up-an-external-zookeeper-ensemble.html
+* (https://sitecorenuke.wordpress.com/2017/08/31/solr-cloud-setup-with-zookeeper-for-sitecore/)
+* (https://lucene.apache.org/solr/guide/6_6/setting-up-an-external-zookeeper-ensemble.html)
 * https://javadeveloperzone.com/solr/securing-solr-cluster-enabling-ssl-on-multi-node/
 * https://lucene.apache.org/solr/guide/6_6/enabling-ssl.html
 * https://lucene.apache.org/solr/guide/6_6/command-line-utilities.html
