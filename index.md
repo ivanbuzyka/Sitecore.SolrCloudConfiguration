@@ -21,7 +21,7 @@ However, some of such articles contain confusing information which may lead to c
 
 # Resulting infrastructure
 
-[[https://github.com/ivanbuzyka/Sitecore.SolrCloudConfiguration/blob/master/images/SolrCloud_infrastructure_http.jpg|alt=sitecore solrcloud]]
+![sitecore solrcloud](/images/SolrCloud_infrastructure_http.jpg)
 
 ## Explanation
 
