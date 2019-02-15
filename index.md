@@ -15,6 +15,8 @@ I didn't have experience with SolrCloud at all, therefore I searched a loot for 
 * https://lucene.apache.org/solr/guide/6_6/command-line-utilities.html
 * https://sitecore-community.github.io/docs/search/solr/Install-and-configure-SolrCloud/
 
+<hr/>
+
 However, some of such articles contain confusing information which may lead to configuring SolrCloud incorrectly. 
 
 # Resulting infrastructure
