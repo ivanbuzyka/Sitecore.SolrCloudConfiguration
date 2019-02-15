@@ -22,4 +22,4 @@ To check that, you may open command prompt and try to run following command. If 
 
 ![sitecore solrcloud java](/images/java-running.png)
 
-Finally make sure Windows firewall on this VM allows inbound connections for some specific SolrCloud ports. See more information in [Ports and Firewalls](/ports-and-firewalls-etc) article in this wiki.
+Finally make sure Windows firewall on this VM allows inbound connections for some specific SolrCloud ports. See more information in [Ports and Firewalls](ports-and-firewalls-etc) article in this wiki.
